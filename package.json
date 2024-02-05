@@ -1,0 +1,14 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "Simple File Manager",
+  "main": "index.js","engines": {
+    "node": ">=20.0.0"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "ISC"
+}
